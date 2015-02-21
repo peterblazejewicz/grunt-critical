@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "async": "^0.9.0",
-    "critical": "0.5.3",
+    "critical": "git://github.com/addyosmani/critical#master",
     "inline-critical": "0.0.10"
   },
   "devDependencies": {
